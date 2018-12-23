@@ -1,6 +1,6 @@
 kubectl
 kubectl.kubeconfig
-provisioning/mitogen
+provisioning/mitogen*
 provisioning/pki
 provisioning/.ansible
 readme.txt

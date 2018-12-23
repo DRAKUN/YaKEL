@@ -56,7 +56,7 @@ ingress:
 
 apps:
     dashboard:
-      enabled: false
+      enabled: true
     traefik:
       enabled: true
     spinnaker:
